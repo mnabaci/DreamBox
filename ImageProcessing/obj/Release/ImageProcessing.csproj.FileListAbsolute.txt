@@ -1,0 +1,63 @@
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\ImageProcessing.exe.config
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\AForge.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\AForge.Imaging.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\AForge.Math.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\MessagingToolkit.QRCode.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\Newtonsoft.Json.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\nikoncswrapper.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\AForge.xml
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\AForge.Imaging.xml
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\AForge.Math.xml
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Release\ImageProcessing.MainScreen.resources
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Release\ImageProcessing.TakePhoto.resources
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Release\ImageProcessing.pdb
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\System.Data.SQLite.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\System.Data.SQLite.xml
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Release\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Release\CcTalkCommLib2.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\ImageProcessing.exe.config
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\obj\Release\ImageProcessing.pdb
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\AForge.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\AForge.Imaging.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\AForge.Math.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\CcTalkCommLib2.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\MessagingToolkit.QRCode.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\Newtonsoft.Json.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\nikoncswrapper.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\System.Data.SQLite.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\AForge.xml
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\AForge.Imaging.xml
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\AForge.Math.xml
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\bin\Release\System.Data.SQLite.xml
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\obj\Release\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\obj\Release\ImageProcessing.MainScreen.resources
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\obj\Release\ImageProcessing.TakePhoto.resources
+C:\Users\microsoft\Desktop\ImageProcessing1 - Kopya\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\ImageProcessing.exe.config
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Release\ImageProcessing.MainScreen.resources
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Release\ImageProcessing.TakePhoto.resources
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\AForge.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\AForge.Imaging.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\AForge.Math.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\MessagingToolkit.QRCode.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\nikoncswrapper.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\AForge.xml
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\AForge.Imaging.xml
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Release\AForge.Math.xml
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Release\ImageProcessing.pdb

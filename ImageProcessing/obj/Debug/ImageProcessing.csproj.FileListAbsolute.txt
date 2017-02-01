@@ -1,0 +1,76 @@
+c:\users\administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\AForge.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\AForge.Imaging.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\AForge.Math.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\AForge.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\AForge.Imaging.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\AForge.Math.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainScreen.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.TakePhoto.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\ImageProcessing\ImageProcessing\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\AForge.dll
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\AForge.Imaging.dll
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\AForge.Math.dll
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\AForge.xml
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\AForge.Imaging.xml
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\AForge.Math.xml
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainScreen.resources
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.TakePhoto.resources
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\microsoft\Desktop\ImageProcessing\ImageProcessing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\AForge.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\AForge.Imaging.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\AForge.Math.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\AForge.xml
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\AForge.Imaging.xml
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\AForge.Math.xml
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Debug\ImageProcessing.MainScreen.resources
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Debug\ImageProcessing.TakePhoto.resources
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\System.Data.SQLite.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\microsoft\Desktop\ImageProcessing1\ImageProcessing\bin\Debug\System.Data.SQLite.xml
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\AForge.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\AForge.Imaging.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\AForge.Math.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\AForge.xml
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\AForge.Imaging.xml
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\AForge.Math.xml
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\bin\Debug\System.Data.SQLite.xml
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Debug\ImageProcessing.MainScreen.resources
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Debug\ImageProcessing.TakePhoto.resources
+C:\Users\microsoft\Documents\GitHub\DreamBox\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
