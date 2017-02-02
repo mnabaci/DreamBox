@@ -86,7 +86,6 @@
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "TakePhoto";
-            this.TopMost = true;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.TakePhoto_FormClosing);
             this.ResizeEnd += new System.EventHandler(this.TakePhoto_ResizeEnd);

@@ -119,6 +119,11 @@ namespace ImageProcessing
                         LogManager.Log(new LogData(string.Format("{0}.{1} sunucuya yüklenirken hata oluştu.", d.ImageID, d.ImageType), LogType.Warning));
                     }
                 }
+                catch (System.IO.FileNotFoundException)
+                {
+                    while (!sql.SetSend(d.ImageID)) ;
+                    LogManager.Log(new LogData(string.Format("{0}.{1} bulunamadığından sunucuya yüklenemedi.", d.ImageID, d.ImageType), LogType.Error));
+                }
                 catch (UnAutExeption)
                 {
                     LogManager.Log(new LogData("Sunucu kullanıcı hatası. Tekrar giriş yapılıyor..."));
@@ -137,10 +142,10 @@ namespace ImageProcessing
                     }
                     else
                     {
-                        LogManager.Log(new LogData("Sunucuya giriş yapılamadı. Giriş bilgilerinizi kontrol ediniz",LogType.Error));
+                        LogManager.Log(new LogData("Sunucuya giriş yapılamadı. Giriş bilgilerinizi kontrol ediniz", LogType.Error));
                         return;
                     }
-                        
+
                 }
             }
             if (count > 0) 
@@ -208,7 +213,7 @@ namespace ImageProcessing
                 AutoClosingMessageBox.Show(this,"Bağlı fotoğraf makinesi bulunamadı. Lütfen kontrol ediniz", "Hata", 3000,MessageBoxIcon.Error);
                 return;
             }
-            new TakePhoto(collection[0], device).Show();
+            new TakePhoto(collection[1], device).Show();
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
@@ -219,7 +224,7 @@ namespace ImageProcessing
                 AutoClosingMessageBox.Show(this,"Bağlı fotoğraf makinesi bulunamadı. Lütfen kontrol ediniz", "Hata", 3000,MessageBoxIcon.Error);
                 return;
             }
-            new TakePhoto(collection[0], device).Show();
+            new TakePhoto(collection[2], device).Show();
         }
         private void pictureBox5_Click(object sender, EventArgs e)
         {
